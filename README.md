@@ -2,7 +2,7 @@
 
 Ссылка на проект - 
 
-[скриншот-1].(https://github.com/AI-Rushan/ai_assistent_no_code/blob/main/работа%20бота.jpg?raw=true)
+![скриншот-1].(https://github.com/AI-Rushan/ai_assistent_no_code/blob/main/работа%20бота.jpg?raw=true)
 
 ## О проекте
 
